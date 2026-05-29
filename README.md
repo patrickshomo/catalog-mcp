@@ -9,7 +9,7 @@ Semantic search MCP server for any project. Indexes code, docs, and configs usin
 uv pip install -e /path/to/catalog-mcp
 
 # Or from git:
-uv pip install git+https://github.com/youruser/catalog-mcp.git
+uv pip install git+https://github.com/patrickshomo/catalog-mcp.git
 ```
 
 ## MCP Config
